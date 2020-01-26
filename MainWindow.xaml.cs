@@ -23,6 +23,7 @@ namespace Sudoku
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
