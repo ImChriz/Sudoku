@@ -1,0 +1,7 @@
+http://kajtsweb.webd.pl/pwr/kajt/sudoku/Mik%B3uszkaMarkuszewskiSzkutnik-SWDISK.pdf
+http://www.sudocue.net/guide.php
+https://en.wikipedia.org/wiki/Mathematics_of_Sudoku
+https://en.wikipedia.org/wiki/Glossary_of_Sudoku
+https://leetcode.com/problems/sudoku-solver/
+https://stackoverflow.com/questions/723213/sudoku-algorithm-in-c-sharp
+http://norvig.com/sudoku.html
