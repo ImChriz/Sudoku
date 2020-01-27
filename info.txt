@@ -5,3 +5,7 @@ https://en.wikipedia.org/wiki/Glossary_of_Sudoku
 https://leetcode.com/problems/sudoku-solver/
 https://stackoverflow.com/questions/723213/sudoku-algorithm-in-c-sharp
 http://norvig.com/sudoku.html
+
+
+https://github.com/gtarawneh/sudoku
+https://www.codeproject.com/Articles/12473/Sudoku-Game-in-C
