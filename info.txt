@@ -9,3 +9,6 @@ http://norvig.com/sudoku.html
 
 https://github.com/gtarawneh/sudoku
 https://www.codeproject.com/Articles/12473/Sudoku-Game-in-C
+
+
+https://pl.wikipedia.org/wiki/Sudoku
